@@ -1,9 +1,7 @@
 Playable Piano
-
 A simple and interactive online piano application that allows users to play notes using their keyboard or mouse. The application also includes volume control and an option to toggle the visibility of key labels.
 
 Features
-
 Play piano notes using mouse clicks or keyboard keys.
 
 Adjustable volume control using a slider.

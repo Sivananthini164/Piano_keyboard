@@ -1,15 +1,15 @@
-Playable Piano
+**Playable Piano:**
 
 A simple and interactive online piano application that allows users to play notes using their keyboard or mouse. The application also includes volume control and an option to toggle the visibility of key labels.
 
-Features
+**Features:**
 
 Play piano notes using mouse clicks or keyboard keys.
 Adjustable volume control using a slider.
 Option to show or hide the key labels for a clean interface.
 Animated key press for better user feedback.
 
-Installation
+**Installation:**
 
 Clone the repository or download the project files.
 git clone https://github.com/Sivananthini164/online-piano-keyboard.git
@@ -19,14 +19,14 @@ a.wav, w.wav, s.wav, e.wav, d.wav, f.wav, t.wav, g.wav, y.wav, h.wav, u.wav, j.w
 Open the index.html file in your web browser.
 
 
-Usage
+**Usage:**
 Mouse Interaction: Click on the piano keys to play the corresponding notes.
 Keyboard Interaction: Press the associated keys on your keyboard to play notes.
 Volume Control: Use the volume slider to adjust the sound level.
 Toggle Key Labels: Use the "Show Keys" checkbox to toggle the visibility of the key labels.
 
 
-Project Structure
+**Project Structure:**
 
 online-piano-keyboard/
 │
@@ -41,7 +41,7 @@ online-piano-keyboard/
 └── README.md         # Project documentation
 
 
-Technologies Used
+**Technologies Used:**
 HTML: For the basic structure of the piano.
 CSS: For styling and animations.
 JavaScript: For interactivity, audio playback, and event handling.

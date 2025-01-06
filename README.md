@@ -18,6 +18,7 @@ a.wav, w.wav, s.wav, e.wav, d.wav, f.wav, t.wav, g.wav, y.wav, h.wav, u.wav, j.w
 Open the index.html file in your web browser.
 
 Usage
+
 Mouse Interaction: Click on the piano keys to play the corresponding notes.
 Keyboard Interaction: Press the associated keys on your keyboard to play notes.
 Volume Control: Use the volume slider to adjust the sound level.
@@ -38,12 +39,13 @@ online-piano-keyboard/
 └── README.md         # Project documentation
 
 Technologies Used
+
 HTML: For the basic structure of the piano.
 CSS: For styling and animations.
 JavaScript: For interactivity, audio playback, and event handling.
 
-
 Future Enhancements
+
 Add support for additional octaves.
 Implement a recording and playback feature.
 Improve styling for better user experience.
